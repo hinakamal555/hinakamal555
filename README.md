@@ -52,7 +52,7 @@
 | Project | Stack | Highlight |
 |---|---|---|
 | [NLP – IMDb Sentiment Analysis](https://github.com/hinakamal555/NLP-IMDb-Sentiment-Analysis-System) | Python · NLTK · BiLSTM | 88% benchmark accuracy; adversarial testing exposed a negation-handling bug dropping accuracy to 12–25% — root-caused & documented |
-| [PrepAI – AI Study Companion](https://github.com/hinakamal555/PrepAI) | Next.js 15 · TypeScript · GPT-4o · MongoDB | Live SaaS · PDF → Notes, Quizzes & Flashcards · [Demo ↗](https://prep-ai-rouge.vercel.app) |
+| [PrepAI – AI Study Companion](https://github.com/hinakamal555/PrepAI) | Next.js 15 · TypeScript · GPT-4o · MongoDB | Live SaaS · PDF → Notes, Quizzes & Flashcards 
 | [CV – Vehicle Speed Estimation](https://github.com/hinakamal555/ComputerVision-VehicleSpeedEstimation) | YOLOv8 · OpenCV · SORT | Real-time tracking · Kalman filters |
 | [Cloud Hosting – AWS & Terraform](https://github.com/hinakamal555/AWS) | AWS · Terraform · EC2 | Top academic grade |
 | [Habit Tracker App](https://github.com/hinakamal555/habit-tracker-app) | Python · OOP | Highest project grade |
