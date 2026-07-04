@@ -1,8 +1,9 @@
 # Hi, I'm Hina 👋
-**Junior Developer & AI Student** · Python · Next.js · Cloud · Computer Vision · NLP
+**AI Engineer, moving toward safety-focused research** · Python · NLP · Computer Vision · Cloud
 
 🎓 B.Sc. Applied AI @ IU International University, Germany
-💼 Junior Developer @ Botterfly AI · building LLM pipelines with DSPy
+💼 Junior Developer @ Botterfly AI · secure system design, LLM pipelines with DSPy
+🔍 Currently exploring model robustness & failure-mode analysis
 🌍 Pakistan · Open to remote opportunities
 📷 Photographer when I'm not writing code
 
@@ -50,11 +51,13 @@
 
 | Project | Stack | Highlight |
 |---|---|---|
+| [NLP – IMDb Sentiment Analysis](https://github.com/hinakamal555/NLP-IMDb-Sentiment-Analysis-System) | Python · NLTK · BiLSTM | 88% benchmark accuracy; adversarial testing exposed a negation-handling bug dropping accuracy to 12–25% — root-caused & documented |
 | [PrepAI – AI Study Companion](https://github.com/hinakamal555/PrepAI) | Next.js 15 · TypeScript · GPT-4o · MongoDB | Live SaaS · PDF → Notes, Quizzes & Flashcards · [Demo ↗](https://prep-ai-rouge.vercel.app) |
-| [NLP – IMDb Sentiment Analysis](https://github.com/hinakamal555/NLP-IMDb-Sentiment-Analysis-System) | Python · NLTK · BiLSTM | 88.09% accuracy · 4 models benchmarked |
 | [CV – Vehicle Speed Estimation](https://github.com/hinakamal555/ComputerVision-VehicleSpeedEstimation) | YOLOv8 · OpenCV · SORT | Real-time tracking · Kalman filters |
 | [Cloud Hosting – AWS & Terraform](https://github.com/hinakamal555/AWS) | AWS · Terraform · EC2 | Top academic grade |
 | [Habit Tracker App](https://github.com/hinakamal555/habit-tracker-app) | Python · OOP | Highest project grade |
+
+**At Botterfly AI**, I also built *Lumen*, a multi-tenant AI code-review platform (private/company repo) — OAuth across GitHub, Linear, and Slack, AES-256-GCM token encryption, and idempotent request handling for secure third-party access control.
 
 ---
 
