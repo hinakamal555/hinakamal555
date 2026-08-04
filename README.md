@@ -46,73 +46,34 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 
 # 🛠 Tech Stack
 
-## Languages
+<div align="center">
 
-<p>
+### Languages
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css"/>
+### Frameworks & AI
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,supabase,postgres,mongodb,docker,terraform,aws,git,github,githubactions,vercel" />
 
-</p>
+<br><br>
 
----
+<img src="https://cdn.simpleicons.org/openai/white" height="42"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="42"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/linear/5E6AD2" height="42"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/zapier/FF4A00" height="42"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/>
 
-## Frontend
+<br><br>
 
-<p>
+<img src="https://img.shields.io/badge/DSPy-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLTK-4338CA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
-
-</p>
-
----
-
-## Backend & Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mongodb"/>
-
-</p>
-
----
-
-## AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSPy-LLM_Framework-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLOv8-Computer_Vision-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenCV-Image_Processing-5C3EE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLTK-NLP-4338CA?style=for-the-badge"/>
-
-</p>
-
----
-
-## Cloud • DevOps • Tooling
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,git,github,githubactions,vercel"/>
-
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Linear-Workflow-5E6AD2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zapier-Automation-FF4A00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/n8n-Workflow-EA4B71?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-Integration-7C3AED?style=for-the-badge"/>
-
-</p>
-
+</div>
 ---
 
 # 🤖 AI / ML Expertise
@@ -141,23 +102,6 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 | **🚗 Vehicle Speed Estimation** | YOLOv8 · OpenCV · SORT | Real-time detection, tracking & speed estimation<br>🔗 [GitHub ↗](https://github.com/hinakamal555/ComputerVision-VehicleSpeedEstimation) |
 | **☁️ AWS Infrastructure** | AWS · Terraform | Infrastructure as Code • EC2 deployment • Highest project grade<br>🔗 [GitHub ↗](https://github.com/hinakamal555/AWS) |
 | **✅ Habit Tracker** | Python · OOP | Clean software architecture • Highest project grade<br>🔗 [GitHub ↗](https://github.com/hinakamal555/habit-tracker-app) |
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|-------------|---------|
-| 🎓 Academic Excellence | Highest grade in AWS & Terraform Cloud Hosting project |
-| 🏅 Academic Excellence | Highest grade in Object-Oriented Habit Tracker project |
-| 🤖 AI Engineering | Built multiple end-to-end AI applications across NLP, Computer Vision and LLMs |
-| ☁️ Cloud Engineering | Hands-on infrastructure deployment using AWS & Terraform |
-| 🔒 Secure Systems | Production experience with OAuth, encrypted credentials and backend integrations |
-| 📈 Industry Experience | Contributing to production AI systems at Botterfly AI |
-| 📚 Continuous Learning | Currently pursuing B.Sc. Applied AI while working full-time |
-
-</div>
 
 ---
 
