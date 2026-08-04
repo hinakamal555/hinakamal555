@@ -112,8 +112,12 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 
 ---
 
+<div align="center">
+
+### 💡 Turning ideas into intelligent, secure, and scalable software.
+
+</div>
+
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:5B21B6,50:7C3AED,100:4F46E5"/>
-
-</div>
