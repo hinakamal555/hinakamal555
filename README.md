@@ -12,10 +12,6 @@
 <img src="https://img.shields.io/badge/B.Sc._Applied_AI-IU_International_University-6D28D9?style=for-the-badge"/>
 </a>
 
-<img src="https://img.shields.io/badge/Junior_Developer-Botterfly_AI-4F46E5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pakistan-Open_to_Remote-7C3AED?style=for-the-badge"/>
-
 <br>
 
 </div>
@@ -46,8 +42,6 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 
 # 🛠 Tech Stack
 
-<div align="center">
-
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
 
@@ -73,7 +67,6 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 <img src="https://img.shields.io/badge/NLTK-4338CA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge"/>
 
-</div>
 ---
 
 # 🤖 AI / ML Expertise
@@ -107,8 +100,6 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 
 # 📬 Let's Connect
 
-<div align="center">
-
 <a href="https://www.linkedin.com/in/hina-kamal-2b023128a">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
@@ -120,8 +111,6 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 <a href="https://github.com/hinakamal555">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
-
-</div>
 
 ---
 
