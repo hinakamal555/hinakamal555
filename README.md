@@ -146,103 +146,14 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 ---
 # 🚀 Featured Projects
 
-## 🎬 NLP — IMDb Sentiment Analysis System
-
-**Python • NLTK • BiLSTM • TensorFlow**
-
-Built a BiLSTM sentiment classifier achieving **88% accuracy** on the IMDb dataset. Extended the evaluation with adversarial testing, uncovering a negation-handling weakness that reduced accuracy to **12–25%**, then documented the failure modes and their causes.
-
-**Highlights**
-- 88% benchmark accuracy
-- Adversarial robustness evaluation
-- Failure-mode analysis
-- BiLSTM architecture
-
-🔗 **Repository:** https://github.com/hinakamal555/NLP-IMDb-Sentiment-Analysis-System
-
----
-
-## 📚 PrepAI — AI Study Companion
-
-**Next.js 15 • TypeScript • GPT-4o • MongoDB**
-
-AI-powered study platform that converts uploaded PDFs into structured notes, quizzes, and flashcards using LLMs.
-
-**Highlights**
-- PDF processing
-- AI-generated notes
-- Quiz generation
-- Flashcards
-
-🔗 **Repository:** https://github.com/hinakamal555/PrepAI
-
----
-
-## 🚗 Computer Vision — Vehicle Speed Estimation
-
-**Python • YOLOv8 • OpenCV • SORT**
-
-Real-time vehicle detection, tracking, and speed estimation using YOLOv8 and the SORT tracking algorithm.
-
-**Highlights**
-- Object detection
-- Multi-object tracking
-- Speed estimation
-- Kalman filtering
-
-🔗 **Repository:** https://github.com/hinakamal555/ComputerVision-VehicleSpeedEstimation
-
----
-
-## ☁️ AWS Infrastructure with Terraform
-
-**AWS • Terraform • EC2**
-
-Provisioned AWS infrastructure using Infrastructure as Code principles while learning cloud deployment best practices.
-
-**Highlights**
-- Infrastructure as Code
-- EC2 deployment
-- Terraform
-- Top academic grade
-
-🔗 **Repository:** https://github.com/hinakamal555/AWS
-
----
-
-## ✅ Habit Tracker
-
-**Python • Object-Oriented Programming**
-
-A modular habit-tracking application demonstrating clean software design and object-oriented programming principles.
-
-**Highlights**
-- OOP architecture
-- Modular design
-- Persistent habit tracking
-- Top academic grade
-
-🔗 **Repository:** https://github.com/hinakamal555/habit-tracker-app
-
----
-
-## 🏢 Lumen (Private Company Project)
-
-**Botterfly AI • Private Repository**
-
-Contributed to a multi-tenant AI platform by building secure OAuth integrations, encrypted credential storage, backend APIs, and AI-assisted engineering workflows.
-
-**Highlights**
-- OAuth integrations
-- AES-256-GCM encryption
-- Multi-tenant architecture
-- Production backend systems
-
-**Technologies**
-
-`Python` • `TypeScript` • `LLMs` • `OAuth` • `REST APIs` • `Security`
-
-</details>
+| Project | Tech | Impact |
+|:--------|:-----|:-------|
+| **🎬 IMDb Sentiment Analysis** | Python · BiLSTM · NLTK | **88% accuracy** • Adversarial testing • Failure-mode analysis<br>🔗 Repository |
+| **📚 PrepAI** | Next.js · GPT-4o · MongoDB | AI-powered study companion for notes, quizzes & flashcards<br>🔗 Repository |
+| **🚗 Vehicle Speed Estimation** | YOLOv8 · OpenCV · SORT | Real-time detection, tracking & speed estimation<br>🔗 Repository |
+| **☁️ AWS Infrastructure** | AWS · Terraform | Infrastructure as Code • EC2 deployment<br>🔗 Repository |
+| **✅ Habit Tracker** | Python · OOP | Clean software architecture • Highest project grade<br>🔗 Repository |
+| **🏢 Lumen** *(Private)* | AI Platform | Multi-tenant AI platform with OAuth & secure integrations |
 
 ---
 
