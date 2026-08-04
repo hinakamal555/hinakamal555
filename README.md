@@ -42,30 +42,28 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 
 # 🛠 Tech Stack
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
+</p>
 
-### Frameworks & AI
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,supabase,postgres,mongodb,docker,terraform,aws,git,github,githubactions,vercel" />
+### 🚀 Frameworks & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,supabase,postgres,mongodb,docker,terraform,aws,git,github,githubactions,vercel" />
+</p>
 
-<br><br>
-
-<img src="https://cdn.simpleicons.org/openai/white" height="42"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="42"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/linear/5E6AD2" height="42"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/zapier/FF4A00" height="42"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="42"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/DSPy-F97316?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLOv8-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLTK-4338CA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-7C3AED?style=for-the-badge"/>
+### 🤖 AI & Developer Tools
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSPy-FF6B35?style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLOv8-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-4338CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square" />
+  <img src="https://img.shields.io/badge/REST_API-7C3AED?style=flat-square" />
+</p>
 
 ---
 
