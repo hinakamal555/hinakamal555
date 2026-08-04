@@ -18,20 +18,6 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/hina-kamal-2b023128a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:hinakamal441@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hinakamal555">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
 ---
 
 # About Me
@@ -148,13 +134,12 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 
 | Project | Tech | Impact |
 |:--------|:-----|:-------|
-| **🎬 IMDb Sentiment Analysis** | Python · BiLSTM · NLTK | **88% accuracy** • Adversarial testing • Failure-mode analysis<br>🔗 Repository |
-| **📚 PrepAI** | Next.js · GPT-4o · MongoDB | AI-powered study companion for notes, quizzes & flashcards<br>🔗 Repository |
-| **🚗 Vehicle Speed Estimation** | YOLOv8 · OpenCV · SORT | Real-time detection, tracking & speed estimation<br>🔗 Repository |
-| **☁️ AWS Infrastructure** | AWS · Terraform | Infrastructure as Code • EC2 deployment<br>🔗 Repository |
-| **✅ Habit Tracker** | Python · OOP | Clean software architecture • Highest project grade<br>🔗 Repository |
-| **🏢 Lumen** *(Private)* | AI Platform | Multi-tenant AI platform with OAuth & secure integrations |
-
+| **🎬 IMDb Sentiment Analysis** | Python · BiLSTM · NLTK | **88% accuracy** • Adversarial testing • Failure-mode analysis<br>🔗 [GitHub ↗](https://github.com/hinakamal555/NLP-IMDb-Sentiment-Analysis-System) |
+| **📚 PrepAI** | Next.js · GPT-4o · MongoDB | AI-powered study companion for notes, quizzes & flashcards<br>🔗 [GitHub ↗](https://github.com/hinakamal555/PrepAI) |
+| **🚗 Vehicle Speed Estimation** | YOLOv8 · OpenCV · SORT | Real-time detection, tracking & speed estimation<br>🔗 [GitHub ↗](https://github.com/hinakamal555/ComputerVision-VehicleSpeedEstimation) |
+| **☁️ AWS Infrastructure** | AWS · Terraform | Infrastructure as Code • EC2 deployment • Highest project grade<br>🔗 [GitHub ↗](https://github.com/hinakamal555/AWS) |
+| **✅ Habit Tracker** | Python · OOP | Clean software architecture • Highest project grade<br>🔗 [GitHub ↗](https://github.com/hinakamal555/habit-tracker-app) |
+| **🏢 Lumen** *(Private)* | Python · TypeScript · OAuth | Multi-tenant AI platform with secure integrations *(Private company repository)* |
 ---
 
 # 🏆 Achievements
