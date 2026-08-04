@@ -112,4 +112,4 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:5B21B6,50:7C3AED,100:4F46E5&text=Thank%20You!&fontSize=42&fontColor=ffffff&desc=Turning%20ideas%20into%20intelligent,%20secure,%20and%20scalable%20software.&descAlignY=70&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:5B21B6,50:7C3AED,100:4F46E5&text=%20&fontSize=1&fontColor=ffffff&desc=Turning%20ideas%20into%20intelligent,%20secure,%20and%20scalable%20software.&descAlignY=55&descSize=22&descColor=ffffff"/>
