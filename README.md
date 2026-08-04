@@ -8,10 +8,13 @@
 
 <br><br>
 
-![](https://img.shields.io/badge/B.Sc.-Applied_AI-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/IU_International_University-Germany-4338CA?style=for-the-badge)
-![](https://img.shields.io/badge/Junior_Developer-Botterfly_AI-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/Pakistan-Open_to_Remote-7C3AED?style=for-the-badge)
+<a href="https://www.iu.org/">
+<img src="https://img.shields.io/badge/B.Sc._Applied_AI-IU_International_University-6D28D9?style=for-the-badge"/>
+</a>
+
+<img src="https://img.shields.io/badge/Junior_Developer-Botterfly_AI-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pakistan-Open_to_Remote-7C3AED?style=for-the-badge"/>
 
 <br>
 
@@ -27,17 +30,11 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
-
-![](https://komarev.com/ghpvc/?username=hinakamal555&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/hinakamal555?style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/stars/hinakamal555?affiliations=OWNER&style=for-the-badge&color=7C3AED)
-
 </div>
 
 ---
 
-# 💜 About Me
+# About Me
 
 I'm **Hina Kamal**, an AI Engineer passionate about building dependable AI systems that solve real-world problems.
 
@@ -149,204 +146,97 @@ Outside of work, I enjoy experimenting with machine learning, exploring computer
 ---
 # 🚀 Featured Projects
 
-<details open>
-<summary>
-
 ## 🎬 NLP — IMDb Sentiment Analysis System
 
-</summary>
+**Python • NLTK • BiLSTM • TensorFlow**
 
-Designed and evaluated a deep learning sentiment analysis system with a strong emphasis on **model robustness rather than benchmark accuracy alone**. Beyond achieving competitive performance, the project investigated how adversarial inputs exposed weaknesses in the model's understanding of natural language.
+Built a BiLSTM sentiment classifier achieving **88% accuracy** on the IMDb dataset. Extended the evaluation with adversarial testing, uncovering a negation-handling weakness that reduced accuracy to **12–25%**, then documented the failure modes and their causes.
 
-| Category | Details |
-|-----------|---------|
-| **Stack** | Python • NLTK • TensorFlow/Keras • BiLSTM |
-| **Scale** | IMDb Movie Reviews Dataset |
-| **Performance** | **88% benchmark accuracy** |
-| **Evaluation** | Adversarial robustness testing |
-| **Key Finding** | Negation-heavy sentences reduced accuracy to **12–25%** |
-| **Impact** | Root-caused linguistic failure modes and documented model limitations |
-| **Repository** | https://github.com/hinakamal555/NLP-IMDb-Sentiment-Analysis-System |
+**Highlights**
+- 88% benchmark accuracy
+- Adversarial robustness evaluation
+- Failure-mode analysis
+- BiLSTM architecture
 
-### Highlights
-
-- Built a BiLSTM-based sentiment classifier.
-- Implemented full NLP preprocessing pipeline.
-- Performed benchmark evaluation on IMDb dataset.
-- Designed adversarial test cases instead of relying solely on accuracy metrics.
-- Identified and documented model failure under negation and linguistic edge cases.
-- Demonstrated practical understanding of AI reliability and evaluation.
-
-**Focus Areas**
-
-`NLP` • `Deep Learning` • `Model Evaluation` • `AI Robustness`
-
-</details>
+🔗 **Repository:** https://github.com/hinakamal555/NLP-IMDb-Sentiment-Analysis-System
 
 ---
-
-<details>
-<summary>
 
 ## 📚 PrepAI — AI Study Companion
 
-</summary>
+**Next.js 15 • TypeScript • GPT-4o • MongoDB**
 
-A modern AI-powered learning platform that transforms study material into structured educational resources. Users can upload PDFs and automatically generate notes, quizzes, and flashcards using LLMs.
+AI-powered study platform that converts uploaded PDFs into structured notes, quizzes, and flashcards using LLMs.
 
-| Category | Details |
-|-----------|---------|
-| **Stack** | Next.js 15 • TypeScript • GPT-4o • MongoDB |
-| **Architecture** | Full-stack SaaS |
-| **Features** | PDF Upload • AI Notes • Flashcards • Quiz Generation |
-| **Focus** | Personalized AI-assisted learning |
-| **Repository** | https://github.com/hinakamal555/PrepAI |
+**Highlights**
+- PDF processing
+- AI-generated notes
+- Quiz generation
+- Flashcards
 
-### Highlights
-
-- Built using the Next.js App Router.
-- AI-powered document understanding.
-- Automatic generation of study notes.
-- Interactive quiz generation.
-- Flashcard creation for revision.
-- Modern responsive interface.
-
-**Focus Areas**
-
-`LLMs` • `Education Technology` • `Full Stack Development`
-
-</details>
+🔗 **Repository:** https://github.com/hinakamal555/PrepAI
 
 ---
-
-<details>
-<summary>
 
 ## 🚗 Computer Vision — Vehicle Speed Estimation
 
-</summary>
+**Python • YOLOv8 • OpenCV • SORT**
 
-Developed a real-time vehicle tracking and speed estimation system using modern object detection and multi-object tracking algorithms.
+Real-time vehicle detection, tracking, and speed estimation using YOLOv8 and the SORT tracking algorithm.
 
-| Category | Details |
-|-----------|---------|
-| **Stack** | Python • YOLOv8 • OpenCV • SORT |
-| **Detection** | Real-time object detection |
-| **Tracking** | Multi-object tracking with Kalman Filters |
-| **Output** | Vehicle speed estimation |
-| **Repository** | https://github.com/hinakamal555/ComputerVision-VehicleSpeedEstimation |
+**Highlights**
+- Object detection
+- Multi-object tracking
+- Speed estimation
+- Kalman filtering
 
-### Highlights
-
-- YOLOv8 object detection.
-- SORT multi-object tracking.
-- Kalman-filter-based tracking.
-- Vehicle trajectory estimation.
-- Real-time speed calculations.
-- Video processing pipeline.
-
-**Focus Areas**
-
-`Computer Vision` • `Object Detection` • `Tracking`
-
-</details>
+🔗 **Repository:** https://github.com/hinakamal555/ComputerVision-VehicleSpeedEstimation
 
 ---
-
-<details>
-<summary>
 
 ## ☁️ AWS Infrastructure with Terraform
 
-</summary>
+**AWS • Terraform • EC2**
 
-Provisioned cloud infrastructure using Infrastructure as Code principles while learning production deployment workflows on AWS.
+Provisioned AWS infrastructure using Infrastructure as Code principles while learning cloud deployment best practices.
 
-| Category | Details |
-|-----------|---------|
-| **Stack** | AWS • Terraform • EC2 |
-| **Focus** | Infrastructure as Code |
-| **Concepts** | Cloud provisioning • Automation |
-| **Academic Result** | Highest Project Grade |
-| **Repository** | https://github.com/hinakamal555/AWS |
+**Highlights**
+- Infrastructure as Code
+- EC2 deployment
+- Terraform
+- Top academic grade
 
-### Highlights
-
-- Infrastructure provisioning with Terraform.
-- AWS EC2 deployment.
-- Reusable infrastructure configuration.
-- Version-controlled cloud resources.
-- Hands-on cloud engineering fundamentals.
-
-**Focus Areas**
-
-`AWS` • `Terraform` • `Cloud Engineering`
-
-</details>
+🔗 **Repository:** https://github.com/hinakamal555/AWS
 
 ---
 
-<details>
-<summary>
+## ✅ Habit Tracker
 
-## ✅ Habit Tracker Application
+**Python • Object-Oriented Programming**
 
-</summary>
+A modular habit-tracking application demonstrating clean software design and object-oriented programming principles.
 
-A Python-based object-oriented application demonstrating clean software design principles and modular architecture.
+**Highlights**
+- OOP architecture
+- Modular design
+- Persistent habit tracking
+- Top academic grade
 
-| Category | Details |
-|-----------|---------|
-| **Stack** | Python • Object-Oriented Programming |
-| **Architecture** | Modular OOP Design |
-| **Focus** | Software Engineering Fundamentals |
-| **Academic Result** | Highest Project Grade |
-| **Repository** | https://github.com/hinakamal555/habit-tracker-app |
-
-### Highlights
-
-- Object-oriented architecture.
-- Modular project organization.
-- Persistent habit tracking.
-- Clean Python implementation.
-- Focus on maintainability.
-
-**Focus Areas**
-
-`Python` • `OOP` • `Software Design`
-
-</details>
+🔗 **Repository:** https://github.com/hinakamal555/habit-tracker-app
 
 ---
 
-<details>
-<summary>
+## 🏢 Lumen (Private Company Project)
 
-## 🏢 Professional Experience — Lumen (Private Repository)
+**Botterfly AI • Private Repository**
 
-</summary>
+Contributed to a multi-tenant AI platform by building secure OAuth integrations, encrypted credential storage, backend APIs, and AI-assisted engineering workflows.
 
-**Lumen** is an internal multi-tenant AI engineering platform developed at **Botterfly AI** to streamline AI-assisted software development across multiple organizations.
-
-Because this project is proprietary, the implementation details and source code are private. The work focused on secure backend engineering, authentication, third-party integrations, and production-ready AI workflows.
-
-| Category | Details |
-|-----------|---------|
-| **Organization** | Botterfly AI |
-| **Visibility** | Private Company Repository |
-| **Role** | AI / Backend Engineer |
-| **Focus** | Multi-tenant AI Platform |
-| **Security** | AES-256-GCM token encryption |
-| **Integrations** | GitHub • Linear • Slack • OAuth |
-
-### Key Contributions
-
-- Built secure OAuth integrations.
-- Designed encrypted credential storage.
-- Implemented idempotent request handling.
-- Developed AI-assisted engineering workflows.
-- Worked on backend APIs and production integrations.
-- Contributed to scalable multi-tenant architecture.
+**Highlights**
+- OAuth integrations
+- AES-256-GCM encryption
+- Multi-tenant architecture
+- Production backend systems
 
 **Technologies**
 
@@ -431,59 +321,13 @@ Building production-grade AI applications, backend integrations, and scalable au
 
 ---
 
-# 📜 Certifications
-
-> *Currently expanding my professional certifications while gaining hands-on industry experience.*
-
-## Cloud
-
-![AWS](https://img.shields.io/badge/AWS-In_Progress-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## AI & Machine Learning
-
-![OpenAI](https://img.shields.io/badge/OpenAI-Production_Experience-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-![DSPy](https://img.shields.io/badge/DSPy-Production_Experience-F97316?style=for-the-badge)
-
----
-
-## University
-
-![IU](https://img.shields.io/badge/B.Sc._Applied_AI-In_Progress-5B21B6?style=for-the-badge)
-
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://github.com/hinakamal555">
-<img src="https://img.shields.io/badge/GitHub-hinakamal555-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hina-kamal-2b023128a">
-<img src="https://img.shields.io/badge/LinkedIn-Hina_Kamal-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:hinakamal441@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-> **More competitive programming profiles will be added as I continue participating in coding challenges and open-source contributions.**
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hinakamal555&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hinakamal555&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hinakamal555&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=hinakamal555&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -501,17 +345,7 @@ Building production-grade AI applications, backend integrations, and scalable au
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=hinakamal555&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hinakamal555&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hinakamal555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
 
 </div>
 
@@ -523,50 +357,9 @@ Building production-grade AI applications, backend integrations, and scalable au
 
 > **Note:** Enable the GitHub Action below after creating your profile repository.
 
-<img src="https://raw.githubusercontent.com/hinakamal555/hinakamal555/output/github-contribution-grid-snake-dark.svg"/>
+https://raw.githubusercontent.com/hinakamal555/hinakamal555/output/github-contribution-grid-snake-dark.svg
 
 </div>
-
----
-
-# 🎯 Current Focus
-
-```yaml
-current_role:
-  - Junior AI Developer @ Botterfly AI
-
-education:
-  - B.Sc. Applied AI
-  - IU International University (Germany)
-
-currently_learning:
-  - AI Safety
-  - Model Robustness
-  - Adversarial Evaluation
-  - Distributed AI Systems
-  - Advanced LLM Engineering
-
-currently_building:
-  - Production AI Applications
-  - Backend Integrations
-  - LLM Workflows
-  - Secure Automation Systems
-
-research_interests:
-  - AI Alignment
-  - Trustworthy AI
-  - Interpretability
-  - AI Evaluation
-  - Model Reliability
-
-open_to:
-  - AI Engineering
-  - Machine Learning Engineering
-  - AI Safety Research
-  - Backend Engineering
-  - Remote Opportunities
-  - Open Source Collaboration
-```
 
 ---
 
