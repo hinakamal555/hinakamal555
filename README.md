@@ -246,63 +246,6 @@ Contributed to a multi-tenant AI platform by building secure OAuth integrations,
 
 ---
 
-<div align="center">
-
-### 💡 Engineering Philosophy
-
-> *"Great AI systems aren't judged only by how well they perform on ideal data—they're judged by how reliably they behave when the real world gets messy."*
-
-</div>
-
----
-# 💼 Professional Experience
-
-## Junior AI Developer — Botterfly AI
-
-**May 2026 – Present**
-
-Building production-grade AI applications, backend integrations, and scalable automation systems while contributing to secure multi-tenant software used by real organizations.
-
-### Responsibilities
-
-- Develop AI-powered software using modern LLM frameworks.
-- Build backend APIs and third-party integrations.
-- Design secure authentication and authorization workflows.
-- Implement webhook-driven automation systems.
-- Develop production-ready backend features using TypeScript and Python.
-- Build AI-assisted engineering workflows.
-- Collaborate through Agile development and code reviews.
-- Write automated tests and improve system reliability.
-
-### Recent Engineering Work
-
-- Developed production webhook integrations.
-- Built CRM automation workflows.
-- Worked with OAuth-based integrations.
-- Implemented encrypted credential management.
-- Built REST API integrations.
-- Improved backend reliability through testing and automation.
-- Contributed to scalable multi-tenant architecture.
-
-### Technologies
-
-`Python`
-`TypeScript`
-`Next.js`
-`Supabase`
-`PostgreSQL`
-`Docker`
-`GitHub Actions`
-`DSPy`
-`OpenAI`
-`REST APIs`
-`OAuth`
-`Zapier`
-`Linear`
-`Git`
-
----
-
 # 🏆 Achievements
 
 <div align="center">
@@ -316,48 +259,6 @@ Building production-grade AI applications, backend integrations, and scalable au
 | 🔒 Secure Systems | Production experience with OAuth, encrypted credentials and backend integrations |
 | 📈 Industry Experience | Contributing to production AI systems at Botterfly AI |
 | 📚 Continuous Learning | Currently pursuing B.Sc. Applied AI while working full-time |
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hinakamal555&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=hinakamal555&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinakamal555&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hinakamal555&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-> **Note:** Enable the GitHub Action below after creating your profile repository.
-
-https://raw.githubusercontent.com/hinakamal555/hinakamal555/output/github-contribution-grid-snake-dark.svg
 
 </div>
 
@@ -382,10 +283,6 @@ https://raw.githubusercontent.com/hinakamal555/hinakamal555/output/github-contri
 </div>
 
 ---
-
-<div align="center">
-
-### *"The best AI systems aren't the ones that fail the least—they're the ones whose failures are understood, measured, and engineered for."*
 
 <br>
 
