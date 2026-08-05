@@ -8,14 +8,6 @@
     src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3500&pause=1200&color=F8A5C2&center=true&vCenter=true&width=900&lines=AI+Engineer;Building+Reliable+AI+Systems;LLM+Applications+%7C+Backend+Engineering;Computer+Vision+%7C+NLP;Future+AI+Safety+Researcher"
   />
 
-  <br><br>
-
-  <a href="https://www.iu.org/">
-    <img
-      src="https://img.shields.io/badge/B.Sc._Applied_AI-IU_International_University-F8A5C2?style=for-the-badge&labelColor=4B4B4B"
-    />
-  </a>
-
   <br>
 
 </div>
