@@ -14,25 +14,24 @@
 
 ---
 
-# About Me
+# 👋 About Me
 
-I'm **Hina Kamal**, an AI Engineer passionate about building dependable AI systems that solve real-world problems.
+I'm **Hina Kamal**, an AI Engineer and B.Sc. Applied AI student passionate about building reliable AI systems for real-world applications.
 
-Currently, I work as a **Junior Developer at Botterfly AI**, where I contribute to production software involving AI-assisted development, backend integrations, cloud infrastructure, secure system design, and LLM-powered workflows.
+Currently, I work as a **Junior Developer at Botterfly AI**, building production software involving backend engineering, LLM-powered workflows, cloud infrastructure, and secure integrations.
 
-My long-term goal is to transition into **AI Safety Research**, focusing on model robustness, reliability, adversarial evaluation, and trustworthy AI systems.
+I'm particularly interested in **AI Safety**, with a focus on model robustness, reliability, and trustworthy AI.
 
-Outside of work, I enjoy experimenting with machine learning, exploring computer vision and NLP research, and photography.
+Outside of coding, I enjoy exploring NLP, computer vision, and photography.
 
-## Open To
+### 💼 Open To
 
 - AI Engineering
 - Machine Learning Engineering
 - Backend Engineering
-- LLM Infrastructure
 - AI Safety Research
 - Remote Opportunities
-- Open Source Collaboration
+- Open Source
 
 ---
 
